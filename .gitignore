@@ -1,0 +1,13 @@
+# Xcode / SwiftPM
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+*.xcscheme
+xcuserdata/
+xcshareddata/
+*.log
+
+# Xcode project workspace user data
+*.xcworkspace/xcuserdata/
+
